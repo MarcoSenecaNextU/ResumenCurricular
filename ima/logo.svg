@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<svg width="192" height="157" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer" display="inline">
+  <title>Layer 3</title>
+  <rect fill="#aaffff" height="87" id="svg_13" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" width="172.00001" x="1.49999" y="35.5"/>
+ </g>
+ <g class="layer">
+  <title>Layer 2</title>
+  <rect fill="#ffaaaa" height="125.00001" id="svg_11" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" width="58" x="94.5" y="30.5"/>
+ </g>
+ <g class="layer">
+  <title>Layer 1</title>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_21" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(4.09775 0 0 4.09775 -672.109 -301.112)" x="183.17264" xml:space="preserve" y="100.52456">MS</text>
+ </g>
+ <g class="layer" display="inline">
+  <title>Layer 4</title>
+  <polygon fill="#007fff" id="svg_15" points="163,2.2989883422851562 169.91656494140625,21.621906280517578 190.9781494140625,22.038692474365234 174.19126892089844,34.39771270751953 180.2914276123047,53.97821044921875 163,42.29358673095703 145.7085723876953,53.97821044921875 151.80873107910156,34.39771270751953 135.0218505859375,22.038692474365234 156.08340454101562,21.621906280517578 163,2.2989883422851562 169.91656494140625,21.621906280517578 " stroke="#000000" stroke-width="0"/>
+ </g>
+</svg>
